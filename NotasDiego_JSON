@@ -1,0 +1,26 @@
+{
+    "Nombre": "Manzo Avalos Diego",
+    "Materias": [
+        {
+            "Nombre": "Programaci\u00f3n I",
+            "Promedio": "78"
+        },
+        {
+            "Nombre": "Computo en la nube",
+            "Promedio": "92"
+        },
+        {
+            "Nombre": "Inteligencia Artificial",
+            "Promedio": "89"
+        },
+        {
+            "Nombre": "Matem\u00e1ticas IV",
+            "Promedio": "88"
+        },
+        {
+            "Nombre": "Estructura de datos",
+            "Promedio": "89"
+        }
+    ],
+    "Promedio General": 87.2
+}
